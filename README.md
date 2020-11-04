@@ -2,8 +2,7 @@
 
 1. AVL Tree
 2. External Merge Sort
-3. Big Int Library implementation
-   Supports:
+3. Big Int Library implementation-> Supports:
   3.1 Addition
   3.2 Subtraction
   3.3 Multiplication
